@@ -1,0 +1,1 @@
+otoYıkama uygulaması C# WinForm
